@@ -1,2 +1,2 @@
 # Digit_Classification_with_CNN
-Handwritten digit recognition using a Convolutional Neural Network (CNN) on the MNIST dataset with TensorFlow/Keras.
+This project builds and trains a Convolutional Neural Network (CNN) to classify handwritten digits (0–9) from the popular MNIST dataset. It walks through the complete deep learning workflow: loading and preprocessing data, building a CNN architecture, training with early stopping, and evaluating performance using accuracy, classification report, and confusion matrix visualization. The model achieves strong results on the test set and can also make predictions on individual digit images.
